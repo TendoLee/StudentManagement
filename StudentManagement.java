@@ -1,6 +1,5 @@
 /**
  * 这是学生管理系统的初始版本，后续会加入更多功能
- * 后续升级会改变代码复杂的结构
  */
 import java.util.LinkedList;
 import java.util.List;
